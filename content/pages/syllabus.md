@@ -54,11 +54,48 @@ Grading
 
 The overall grade for the class will be assigned using the following weights:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Compiler Project | 58% |
-| Paper Discussion (3% each) | 12% |
-| In-class Quizzes (10% each) | 30% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Compiler Project
+{{< tdclose >}}
+{{< tdopen >}}
+58%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Paper Discussion (3% each)
+{{< tdclose >}}
+{{< tdopen >}}
+12%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+In-class Quizzes (10% each)
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Make sure you understand how your final grade will be calculated. Additional details about how the project grade is calculated are available in the [projects]({{< baseurl >}}/pages/projects) section.
 

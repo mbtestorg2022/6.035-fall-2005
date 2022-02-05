@@ -17,20 +17,317 @@ M: Meeting
 (S): Session taught by Professor Saman Amarasinghe  
 (M): Session taught by Professor Martin Rinard
 
-| WeEK # | DAY 1 | DAY 2 | DAY 3 | DAY 4 |
-| --- | --- | --- | --- | --- |
-| 1 |  |  | L1: Course Administration Information and Overview (S) | P1: Scanner/Parser Assigned  {{< br >}}  {{< br >}}R1: Scanner Parser Project |
-| 2 | L2: Overview of Programming Languages (M) | L3: Regular Expressions, Language Specification by Formal Grammars (M) | L4: Parse Table Construction (M) | L5: Top-down Parsing (M) |
-| 3 |  |  | P1: Scanner/Parser Project Due  {{< br >}}  {{< br >}}P2: Semantic Checker Project Assigned | R2: Project Information Session |
-| 4 | L6: Intermediate Representations (M) | L7: Semantic Analysis (M) |  |  |
-| 5 | Q1: In-class Quiz | M1: One-on-One Meeting | M1: One-on-One Meeting (cont.) | P2: Semantic Checker Project Due  {{< br >}}  {{< br >}}P3: Code Generator Project Assigned |
-| 6 |  |  | R3: Project Information Session | L8: Unoptimized Code Generation (S)  {{< br >}}  {{< br >}}M2: One-on-One Meeting |
-| 7 | L9: Unoptimized Code Generation (cont.) (S)  {{< br >}}  {{< br >}}M2: One-on-One Meeting (cont.) |  |  |  |
-| 8 |  | P3: Code Generator Project Checkpoint |  |  |
-| 9 | P3: Code Generator Project Due  {{< br >}}  {{< br >}}L10: Introduction to Program Analysis and Optimization (M)  {{< br >}}  {{< br >}}P4: Data-flow Optimizer Project Assigned | L11: Data-flow Analysis (M) | L12: Data-flow Optimizations (M)  {{< br >}}  {{< br >}}M3: One-on-One Meeting | L13: Foundations of Data-flow Analysis (M)  {{< br >}}  {{< br >}}M3: One-on-One Meeting (cont.) |
-| 10 | Q2: In-class Quiz | R4: Project Information Session |  |  |
-| 11 |  |  |  | P4: Data-flow Optimizer Project Checkpoint |
-| 12 |  |  | P4: Data-flow Optimizer Project Due  {{< br >}}  {{< br >}}P5: Instruction Optimizer Project Assigned |  |
-| 13 | R5: Project Information Session | L14: Instruction Scheduling (S) | L15: Instruction Scheduling (cont.) (S) | L16: Register Allocation (S) |
-| 14 | L17: Putting it all Together (S) | Q3: In-class Quiz |  |  |
-| 15 | P5: Instruction Optimizer Project Due |  | L18: Compiler Derby (S) |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WeEK #
+{{< thclose >}}
+{{< thopen >}}
+DAY 1
+{{< thclose >}}
+{{< thopen >}}
+DAY 2
+{{< thclose >}}
+{{< thopen >}}
+DAY 3
+{{< thclose >}}
+{{< thopen >}}
+DAY 4
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+L1: Course Administration Information and Overview (S)
+{{< tdclose >}}
+{{< tdopen >}}
+P1: Scanner/Parser Assigned  
+  
+R1: Scanner Parser Project
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+L2: Overview of Programming Languages (M)
+{{< tdclose >}}
+{{< tdopen >}}
+L3: Regular Expressions, Language Specification by Formal Grammars (M)
+{{< tdclose >}}
+{{< tdopen >}}
+L4: Parse Table Construction (M)
+{{< tdclose >}}
+{{< tdopen >}}
+L5: Top-down Parsing (M)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+P1: Scanner/Parser Project Due  
+  
+P2: Semantic Checker Project Assigned
+{{< tdclose >}}
+{{< tdopen >}}
+R2: Project Information Session
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+L6: Intermediate Representations (M)
+{{< tdclose >}}
+{{< tdopen >}}
+L7: Semantic Analysis (M)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Q1: In-class Quiz
+{{< tdclose >}}
+{{< tdopen >}}
+M1: One-on-One Meeting
+{{< tdclose >}}
+{{< tdopen >}}
+M1: One-on-One Meeting (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+P2: Semantic Checker Project Due  
+  
+P3: Code Generator Project Assigned
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+R3: Project Information Session
+{{< tdclose >}}
+{{< tdopen >}}
+L8: Unoptimized Code Generation (S)  
+  
+M2: One-on-One Meeting
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+L9: Unoptimized Code Generation (cont.) (S)  
+  
+M2: One-on-One Meeting (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+P3: Code Generator Project Checkpoint
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+P3: Code Generator Project Due  
+  
+L10: Introduction to Program Analysis and Optimization (M)  
+  
+P4: Data-flow Optimizer Project Assigned
+{{< tdclose >}}
+{{< tdopen >}}
+L11: Data-flow Analysis (M)
+{{< tdclose >}}
+{{< tdopen >}}
+L12: Data-flow Optimizations (M)  
+  
+M3: One-on-One Meeting
+{{< tdclose >}}
+{{< tdopen >}}
+L13: Foundations of Data-flow Analysis (M)  
+  
+M3: One-on-One Meeting (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Q2: In-class Quiz
+{{< tdclose >}}
+{{< tdopen >}}
+R4: Project Information Session
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+P4: Data-flow Optimizer Project Checkpoint
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+P4: Data-flow Optimizer Project Due  
+  
+P5: Instruction Optimizer Project Assigned
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+R5: Project Information Session
+{{< tdclose >}}
+{{< tdopen >}}
+L14: Instruction Scheduling (S)
+{{< tdclose >}}
+{{< tdopen >}}
+L15: Instruction Scheduling (cont.) (S)
+{{< tdclose >}}
+{{< tdopen >}}
+L16: Register Allocation (S)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+L17: Putting it all Together (S)
+{{< tdclose >}}
+{{< tdopen >}}
+Q3: In-class Quiz
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+P5: Instruction Optimizer Project Due
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+L18: Compiler Derby (S)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
