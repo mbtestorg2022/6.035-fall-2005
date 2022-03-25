@@ -42,7 +42,7 @@ Practice Quiz 2 ([PDF]({{< baseurl >}}/resources/practice_quiz2))
 Fall 2004
 {{< tdclose >}}
 {{< tdopen >}}
-Practice Quiz 3 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/practice_quiz3))
+Practice Quiz 3 ([PDF]({{< baseurl >}}/resources/practice_quiz3))
 {{< tdclose >}}
 
 {{< trclose >}}
