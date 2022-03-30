@@ -5,6 +5,7 @@ description: 'This project consists of two segments: lexical (scanning) and synt
   Cases.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-035-computer-language-engineering-sma-5502-fall-2005/7c835bf858ed11afe5282b78476ae002_scannerparser_pr.pdf
 file_type: application/pdf
+parent_uid: e74ddea1-3759-d294-6fef-d20a8fcd1eca
 resourcetype: Document
 title: scannerparser_pr.pdf
 uid: 7c835bf8-58ed-11af-e528-2b78476ae002

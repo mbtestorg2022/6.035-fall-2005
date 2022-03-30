@@ -11,6 +11,7 @@ description: 'The static semantics phase of the project requires considerably mo
   IR and accessing the symbol tables.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-035-computer-language-engineering-sma-5502-fall-2005/c9e743991b0851d98f39b903943d0923_semantics_proj.pdf
 file_type: application/pdf
+parent_uid: e74ddea1-3759-d294-6fef-d20a8fcd1eca
 resourcetype: Document
 title: semantics_proj.pdf
 uid: c9e74399-1b08-51d9-8f39-b903943d0923

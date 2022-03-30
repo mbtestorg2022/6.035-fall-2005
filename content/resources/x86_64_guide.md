@@ -5,6 +5,7 @@ description: This guide presents a simplified version of the x86-64 platform, fo
   Instruction Set, Stack Organization, Calling Convention.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-035-computer-language-engineering-sma-5502-fall-2005/b69fca1329e6f0ddacc5a055ef033f3e_x86_64_guide.pdf
 file_type: application/pdf
+parent_uid: e74ddea1-3759-d294-6fef-d20a8fcd1eca
 resourcetype: Document
 title: x86_64_guide.pdf
 uid: b69fca13-29e6-f0dd-acc5-a055ef033f3e

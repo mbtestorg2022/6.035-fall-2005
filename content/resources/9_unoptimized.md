@@ -6,6 +6,7 @@ description: 'This resource covers the following topics: Segment IV Roadmap, Ana
   passing disciplines, Registers, The Stack, and Guidelines for the code generator.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-035-computer-language-engineering-sma-5502-fall-2005/9356991ffa76bfde56cc1cf178854b34_9_unoptimized.pdf
 file_type: application/pdf
+parent_uid: 4a9af447-a395-17fe-9194-e66f2176394b
 resourcetype: Document
 title: 9_unoptimized.pdf
 uid: 9356991f-fa76-bfde-56cc-1cf178854b34

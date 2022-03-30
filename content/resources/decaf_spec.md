@@ -7,6 +7,7 @@ description: 'The project for the course is to write a compiler for a language c
   Statements, Expressions, Library Callouts, Semantic Rules, and Run Time Checking.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-035-computer-language-engineering-sma-5502-fall-2005/d122dcaacafb166460afda87191441ed_decaf_spec.pdf
 file_type: application/pdf
+parent_uid: e74ddea1-3759-d294-6fef-d20a8fcd1eca
 resourcetype: Document
 title: decaf_spec.pdf
 uid: d122dcaa-cafb-1664-60af-da87191441ed

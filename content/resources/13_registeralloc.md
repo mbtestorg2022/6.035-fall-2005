@@ -9,6 +9,7 @@ description: 'This resource covers the following topics: Storing values between 
   register allocation and various examples related to the topics.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-035-computer-language-engineering-sma-5502-fall-2005/1e4d5a57621a64b308ddb52e61cff46c_13_registeralloc.pdf
 file_type: application/pdf
+parent_uid: 4a9af447-a395-17fe-9194-e66f2176394b
 resourcetype: Document
 title: 13_registeralloc.pdf
 uid: 1e4d5a57-621a-64b3-08dd-b52e61cff46c

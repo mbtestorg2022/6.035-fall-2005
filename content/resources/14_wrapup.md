@@ -6,6 +6,7 @@ description: 'This resource covers the following topics: How to make the compute
   Translation to Intermediate Format, Code Optimizations, and Compiler Derby.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-035-computer-language-engineering-sma-5502-fall-2005/b11cb4ffa27f6b5d19a76f8be2fd93cc_14_wrapup.pdf
 file_type: application/pdf
+parent_uid: 4a9af447-a395-17fe-9194-e66f2176394b
 resourcetype: Document
 title: 14_wrapup.pdf
 uid: b11cb4ff-a27f-6b5d-19a7-6f8be2fd93cc

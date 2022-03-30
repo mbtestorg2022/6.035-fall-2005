@@ -8,6 +8,7 @@ description: 'This resource covers the following topics: Simple Machine Model, S
   Allocation and Instruction Scheduling etc.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-035-computer-language-engineering-sma-5502-fall-2005/46360a3b19116de3e001f6f4ce49b909_12listscheduling.pdf
 file_type: application/pdf
+parent_uid: 4a9af447-a395-17fe-9194-e66f2176394b
 resourcetype: Document
 title: 12listscheduling.pdf
 uid: 46360a3b-1911-6de3-e001-f6f4ce49b909

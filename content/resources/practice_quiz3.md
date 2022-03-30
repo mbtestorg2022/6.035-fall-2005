@@ -4,6 +4,7 @@ description: 'This resource contains questions on: Dominators, Loop Invariant Co
   Motion, and Register Allocation.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-035-computer-language-engineering-sma-5502-fall-2005/9e63bb614544d7401593d88ca285693b_practice_quiz3.pdf
 file_type: application/pdf
+parent_uid: 5df49906-0505-fcc0-3135-ec8c8f3f47b6
 resourcetype: Document
 title: practice_quiz3.pdf
 uid: 9e63bb61-4544-d740-1593-d88ca285693b

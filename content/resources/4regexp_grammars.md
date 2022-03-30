@@ -16,6 +16,7 @@ description: 'This resource covers the following topics: Language Definition Pro
   Turing Machines.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-035-computer-language-engineering-sma-5502-fall-2005/a8fd5194949b300d6ecc23f2b2cd1b94_4regexp_grammars.pdf
 file_type: application/pdf
+parent_uid: 4a9af447-a395-17fe-9194-e66f2176394b
 resourcetype: Document
 title: 4regexp_grammars.pdf
 uid: a8fd5194-949b-300d-6ecc-23f2b2cd1b94
